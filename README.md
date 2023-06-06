@@ -10,6 +10,15 @@ commit 2
 
 commit 3
 
+![image](https://github.com/brauliohuicab1234/ExamenExtraordinarioInteracesGraficas/assets/129221141/a1961944-f49f-4bef-aad0-547d4556a207)
+
+commit 4
+
+![image](https://github.com/brauliohuicab1234/ExamenExtraordinarioInteracesGraficas/assets/129221141/aace0f1e-205c-44e3-9afa-bad959c7492e)
+
+commit 5
+
+
 
 
 
