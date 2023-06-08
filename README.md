@@ -20,6 +20,9 @@ commit 3
 
 ![image](https://github.com/brauliohuicab1234/ExamenExtraordinarioInteracesGraficas/assets/129221141/a1961944-f49f-4bef-aad0-547d4556a207)
 
+![image](https://github.com/brauliohuicab1234/ExamenExtraordinarioInteracesGraficas/assets/129221141/3ac38f78-a1ed-4aec-82e6-06cfd45e324a)
+
+
 commit 4
 
 ![image](https://github.com/brauliohuicab1234/ExamenExtraordinarioInteracesGraficas/assets/129221141/aace0f1e-205c-44e3-9afa-bad959c7492e)
